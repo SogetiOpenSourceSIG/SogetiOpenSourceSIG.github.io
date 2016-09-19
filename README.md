@@ -13,4 +13,4 @@ Group Lead: Tim Brown (Timothy.Brown@us.sogeti.com)
 | Umbraco |	Joseph Pinedo	| Joseph.Pinedo@us.sogeti.com |
 | KeystoneJS |	Tim Brown	| Timothy.Brown@us.sogeti.com |
   
-###Check out our [website](https://sogetiopensourcesig.github.io/) and [slack](https://sogetiopensourcesig.slack.com/) for more info!
+###Check out our [website](https://sogetiopensourcesig.github.io/), [trello](https://trello.com/sogetiopensourcesig) and [slack](https://sogetiopensourcesig.slack.com/) for more info!
